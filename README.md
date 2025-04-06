@@ -29,8 +29,8 @@ mason make <component>
 
 ## Supported Components
 
-✅ ShadButton
-✅ ShadText
+- ✅ ShadButton
+- ✅ ShadText
 
 ## Development
 
