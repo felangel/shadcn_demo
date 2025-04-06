@@ -1,0 +1,7 @@
+name: shad_button
+description: A reusable button component
+
+version: 0.1.0+1
+
+environment:
+  mason: ^0.1.1

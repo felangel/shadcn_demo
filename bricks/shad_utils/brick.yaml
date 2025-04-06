@@ -1,0 +1,7 @@
+name: shad_utils
+description: Common utilities used by Shadcn components
+
+version: 0.1.0+1
+
+environment:
+  mason: ^0.1.1
